@@ -21,3 +21,6 @@ In-Degree
 
 ![image](https://user-images.githubusercontent.com/77536857/190502255-ed3e0432-f15d-47f3-bd10-d45730539ac3.png)
 
+![image](https://user-images.githubusercontent.com/77536857/190502957-da6e8c48-6727-435a-83e6-82b191306ead.png)
+
+![image](https://user-images.githubusercontent.com/77536857/190503008-660aba07-1591-487f-82f3-8a2b361697d5.png)
