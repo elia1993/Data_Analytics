@@ -18,5 +18,6 @@ Fruchterman Reingold– Modularity Class
 ![image](https://user-images.githubusercontent.com/77536857/190502148-48038904-cdab-405d-bade-565fc44ee0e7.png)
 
 In-Degree 
+
 ![image](https://user-images.githubusercontent.com/77536857/190502255-ed3e0432-f15d-47f3-bd10-d45730539ac3.png)
 
