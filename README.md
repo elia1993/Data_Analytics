@@ -5,6 +5,7 @@ In this project i used panads, networkx and matplotlib library to analyze data f
  
  Force Atlas – Out Degree
  ![image](https://user-images.githubusercontent.com/77536857/190501703-b832ee6c-ca79-4b27-a561-9945ac0bcea5.png)
+ 
  Fruchterman Reingold – In-Degree
  ![image](https://user-images.githubusercontent.com/77536857/190501802-417e133c-f656-4bae-b754-1e8007c55633.png)
 
