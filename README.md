@@ -1,5 +1,5 @@
 # Data Analytics - used python to analyze  the data and gephi for graphs   
-I analyze  the data to git users that post a tweet and retweet someone else's post.
+I analyze the data (Twitter json file) to git users that post a tweet and retweet someone else's post.
 In this project i used panads, networkx and matplotlib library to analyze data from json file, json file it's a data from twitter social network that include a large data about users.i took the relevant data from the json file and i insert the records to excel file (tweets2.xlsxe).because it's a big data so i took only the first 5000 users from the json file and i did some analyze  for this data.
  I Run different algorithms like: Degree Centrality , Closensess Centrality , Harmonic Centrality, Communities  using the Girvan–Newman method.
  
